@@ -13,7 +13,7 @@
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
 I am a IT Engineer skilled in Machine Learning ,Computer Vision ,Network (CCNA),Software Enginering , and more. <br/>
-I studied Python , C++ , C# 
+I studied Python , C++ , C# . <br/>
 I am Working on Many Projects 
 
 
@@ -43,6 +43,6 @@ I am Working on Many Projects
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdo-mosa-321669361
 )
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](t.me/@AbdoMosa11)
-[![FaceBook](https://cdn-icons-png.flaticon.com/128/145/145802.png)](https://www.facebook.com/share/1EhLrYowAf/)
+[![FaceBook](https://cdn-icons-png.flaticon.com/128/16183/16183576.png)](https://www.facebook.com/share/1EhLrYowAf/)
 
 </div>
