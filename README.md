@@ -12,9 +12,9 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a IT Engineer skilled in Machine Learning ,Computer Vision ,Network (CCNA),Software Enginering , and more. <br/>
-I studied Python , C++ , C# . <br/>
-I am Working on Many Projects 
+-👨🏼‍💻I am a IT Engineer skilled in Machine Learning ,Computer Vision ,Network (CCNA),Software Enginering , and more. <br/>
+-✅I studied Python , C++ , C# . <br/>
+-🖥️I am Working on Many Projects 
 
 
 
