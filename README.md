@@ -15,7 +15,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:info@sakshamsharma.com.np)
 [![Website](https://img.shields.io/badge/-Website-0e75b6?style=flat&logo=Google-Chrome&logoColor=white&link=https://sakshamsharma.com.np/)](https://sakshamsharma.com.np/)
 [![Blogs](https://img.shields.io/badge/-Blogs-0aa6a6?style=flat&logo=readthedocs&logoColor=white&link=https://blogs.sakshamsharma.com.np/)](https://blogs.sakshamsharma.com.np/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/unexplainablefish52)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)][(https://www.facebook.com/abdo.mosa.927306?rdid=oGPqAeVd1LB7D0gL&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EhLrYowAf%2F#)]
 [![GitHub](https://img.shields.io/github/followers/unexplainablefish52?label=Follow&style=social)](https://github.com/unexplainablefish52)
 ## 🚀 About Me
 
