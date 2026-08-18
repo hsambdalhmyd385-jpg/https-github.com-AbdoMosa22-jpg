@@ -11,12 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=unexplainablefish52&label=Profile%20views&color=0e75b6&style=flat" alt="unexplainablefish52" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamsharma52/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:info@sakshamsharma.com.np)
-[![Website](https://img.shields.io/badge/-Website-0e75b6?style=flat&logo=Google-Chrome&logoColor=white&link=https://sakshamsharma.com.np/)](https://sakshamsharma.com.np/)
-[![Blogs](https://img.shields.io/badge/-Blogs-0aa6a6?style=flat&logo=readthedocs&logoColor=white&link=https://blogs.sakshamsharma.com.np/)](https://blogs.sakshamsharma.com.np/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)][(https://www.facebook.com/abdo.mosa.927306?rdid=oGPqAeVd1LB7D0gL&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EhLrYowAf%2F#)]
-[![GitHub](https://img.shields.io/github/followers/unexplainablefish52?label=Follow&style=social)](https://github.com/unexplainablefish52)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/sakshamsharma52/](https://www.linkedin.com/in/abdo-mosa-321669361))
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/abdo.mosa.927306?rdid=oGPqAeVd1LB7D0gL&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EhLrYowAf%2F#)
+[![GitHub](https://img.shields.io/github/followers/unexplainablefish52?label=Follow&style=social)](https-github.com-AbdoMosa22-jpg
+)
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
